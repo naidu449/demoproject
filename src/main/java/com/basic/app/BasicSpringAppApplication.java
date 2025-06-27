@@ -18,4 +18,4 @@ public class BasicSpringAppApplication {
 		return "naidu";
 	}
 
-}
+}   
